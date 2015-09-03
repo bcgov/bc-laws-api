@@ -1,3 +1,6 @@
+
+<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
+
 [![Stories in Ready](https://badge.waffle.io/bcgov/bc-laws-api.png?label=ready&title=Ready)](https://waffle.io/bcgov/bc-laws-api)
 # bc-laws-api
 
