@@ -13,9 +13,9 @@ If you haven't already, come find us on gitter.im ([bc-laws-api](https://gitter.
 
 We are using a "pay for pull" model for some of the issues in this repository. For issues labelled with a “Help Wanted” AND a “$ Amount" we will pay a flat dollar amount if we merge your contribution. 
 
-Please read the Rapid Adoption Guide for everything you need to know to participate in a Pay for Pull.
+Please read the [Rapid Adoption Guide](https://github.com/BCDevExchange/rapid-adoption-2/wiki) for everything you need to know to participate in a Pay for Pull.
 
-For you pull request to be considered for payment, you must include a copy of the Terms completed with your information and a PayPal email link in the comments section of the of the pull request. Please read the Pay for Pull [Terms](<<terms link>>). 
+For you pull request to be considered for payment, you must include a copy of the Terms completed with your information and a PayPal email link in the comments section of the of the pull request. Please read the Pay for Pull [Terms](https://github.com/bcgov/bc-laws-api/blob/master/Terms.txt). 
 
 ## Testing
 
