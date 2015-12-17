@@ -1,0 +1,182 @@
+%!Adobe-FontList 1.14
+%Locale:0x1009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\hvb_____5.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:23673
+FileModTime:779191200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Bold
+NumMMAxes:0
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\hvb_____5.pfm
+FileLength:1089
+FileModTime:779191200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+FullName:Times Bold Italic
+MenuName:Times
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tibi___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29180
+FileModTime:779191200
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Times-BoldItalic
+NumMMAxes:0
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tibi___.pfm
+FileLength:1115
+FileModTime:779191200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+FullName:Times Bold
+MenuName:Times
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tib____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27446
+FileModTime:779191200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Times-Bold
+NumMMAxes:0
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tib____.pfm
+FileLength:1145
+FileModTime:779191200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+FullName:Times Italic
+MenuName:Times
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tii____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29108
+FileModTime:779191200
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Times-Italic
+NumMMAxes:0
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\tii____.pfm
+FileLength:1127
+FileModTime:779191200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\times.ttf
+DataFormat:sfntData
+FileLength:972028
+FileModTime:1445633038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Roman
+FullName:Times
+MenuName:Times
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\ti_____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27964
+FileModTime:779191200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Times-Roman
+NumMMAxes:0
+OutlineFileName:U:\FO\Convenience Copy\Act_ConvenienceCopy\Document fonts\ti_____.pfm
+FileLength:1130
+FileModTime:779191200
+%EndFont
+
