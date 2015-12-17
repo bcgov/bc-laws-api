@@ -30,12 +30,12 @@ To encourage the creation of new value added services  leveraging the BC Laws AP
 To report bugs/issues/feature requests, please file an [issue](https://github.com/bcgov/bc-laws-api/issues).
 
 ## How to Contribute
-Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/lm0811/CONTRIBUTING.md).
+Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/lm1216/CONTRIBUTING.md).
 
 ## License
 Code, data and content in this repository are licensed under different licenses.
 
-- All code in the /code directory is licensed under the Apache License 2.0. See [LICENSE.Apache-2.0](https://github.com/bcgov/bc-laws-api/blob/lm0811/LICENSE.Apache.2.0) in the appropriate directories.
+- All code in the /code directory is licensed under the Apache License 2.0. See [LICENSE.Apache-2.0](https://github.com/bcgov/bc-laws-api/blob/master/LICENSE.Apache.2.0) in the appropriate directories.
 
-- All documents in the /docs directory is licensed under the Queen's Printer License - British Columbia version 1.0. See LICENSE.QP-BC-1.0 in the appropriate directories.
+- All documents in the /docs directory is licensed under the Queen's Printer License - British Columbia version 1.0. See [LICENSE.QP-BC-1.0](https://github.com/bcgov/bc-laws-api/blob/master/docs/LICENSE.QP-BC-1.0.pdf) in the appropriate directories.
 
