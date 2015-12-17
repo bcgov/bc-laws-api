@@ -33,7 +33,7 @@ To encourage the creation of new value added services  leveraging the BC Laws AP
 To report bugs/issues/feature requests, please file an [issue](https://github.com/bcgov/bc-laws-api/issues).
 
 ## How to Contribute
-Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/lm1216/CONTRIBUTING.md).
+Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/master/CONTRIBUTING.md).
 
 ## License
 Code, data and content in this repository are licensed under different licenses.
