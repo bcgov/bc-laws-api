@@ -1,5 +1,3 @@
-## THIS IS A TEST
-
 ##How to contribute
 I'm really glad you're reading this, because we need developers to help this project come to fruition.
 
@@ -15,11 +13,11 @@ We are using a "pay for pull" model for some of the issues in this repository. F
 
 Please read the Rapid Adoption Guide for everything you need to know to participate in a Pay for Pull.
 
-For you pull request to be considered for payment, you must include a copy of the Terms completed with your information and a PayPal email link in the comments section of the of the pull request. Please read the Pay for Pull [Terms](<<terms link>>). 
+For your pull request to be considered for payment, you must include a copy of the Terms completed with your information and a PayPal email link in the comments section of the of the pull request. Please read the Pay for Pull [Terms](<<terms link>>). 
 
 ## Testing
 
-Please write tests for new code you create.
+Please write tests for new code you create using junit.
 
 ## Submitting changes
 
