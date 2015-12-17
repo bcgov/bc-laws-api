@@ -2,6 +2,9 @@
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
 
 [![Stories in Ready](https://badge.waffle.io/bcgov/bc-laws-api.png?label=ready&title=Ready)](https://waffle.io/bcgov/bc-laws-api)
+
+[![Join the chat at https://gitter.im/bcgov/bc-laws-api?](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bcgov/bc-laws-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # bc-laws-api
 
 BC Laws is a portal application that has been developed by the Queen's Printer of British Columbia to access BC provincial legislation. BC Laws is a modern alternative to traditional methods of online publishing which provides feature rich content in a machine consumable format (XML). 
