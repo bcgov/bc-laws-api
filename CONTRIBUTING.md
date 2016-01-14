@@ -1,8 +1,6 @@
 ##How to contribute
 I'm really glad you're reading this, because we need developers to help this project come to fruition.
 
-If you haven't already, come find us on gitter.im ([bc-laws-api](https://gitter.im/bcgov/bc-laws-api)) and join the chat. We are excited you are here and we want you working on things you're excited about too.
-
 (If you are new to GitHub, you might start with a [basic tutorial](https://help.github.com/articles/set-up-git) and  check out a more detailed guide to [pull requests](https://help.github.com/articles/using-pull-requests/).)
 
 
