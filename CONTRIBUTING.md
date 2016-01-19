@@ -9,7 +9,7 @@ I'm really glad you're reading this, because we need developers to help this pro
 
 We are using a "pay for pull" model for some of the issues in this repository. For issues labelled with a “Help Wanted” AND a “$ Amount" we will pay a flat dollar amount if we merge your contribution. 
 
-Please read the [Rapid Adoption Guide](https://github.com/BCDevExchange/rapid-adoption-2/wiki) for everything you need to know to participate in a Pay for Pull.
+Please read the [Rapid Adoption Guide](https://github.com/BCDevExchange/rapid-adoption/wiki) for everything you need to know to participate in a Pay for Pull.
 
 For your pull request to be considered for payment, you must include a copy of the Terms completed with your information and a PayPal email link in the comments section of the of the pull request. Please read the Pay for Pull [Terms](https://github.com/bcgov/bc-laws-api/blob/master/Terms.txt). 
 
