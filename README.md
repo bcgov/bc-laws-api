@@ -7,7 +7,19 @@
 
 # bc-laws-api
 
-BC Laws is a portal application that has been developed by the Queen's Printer of British Columbia to access BC provincial legislation. BC Laws is a modern alternative to traditional methods of online publishing which provides feature rich content in a machine consumable format (XML). 
+##Help improve this open API that provides British Columbian digital access to all B.C. provincial legislation.
+
+Are you a civic minded developer looking to contribute to a project that makes it easier for citizens to access the law?
+
+You are invited to help improve, BC Laws a portal application developed by the Queen's Printer of British Columbia to access BC provincial legislation. A modern alternative to traditional methods of online publishing, BC Laws provides feature rich content in a machine consumable format (XML).
+
+Did we mention BC Laws is under a permissive license? The license grants a worldwide, royalty-free, perpetual, non-exclusive license, including for lawful commercial purposes.
+
+
+## How to Contribute
+Please see our Issues for how you can contribute to this project. We know that there are lots of open source projects for developers to work on. So for some issues we make provide a small financial incentive to encourage contributions. We know the issues we list may take some time to complete, so we expect the primary motivation of contributors will be to improve a resource that anyone can use, with any incentives acting as icing on the cake. 
+
+Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/master/CONTRIBUTING.md).
 
 ## Features
 BC Laws contains a comprehensive collection of BC legislation and related materials. It is available on the internet in two forms:
@@ -31,9 +43,6 @@ To encourage the creation of new value added services  leveraging the BC Laws AP
 
 ## Getting Help or Reporting an Issue
 To report bugs/issues/feature requests, please file an [issue](https://github.com/bcgov/bc-laws-api/issues).
-
-## How to Contribute
-Pull requests are welcome. If you would like to contribute a package, please see our [CONTRIBUTING guidelines](https://github.com/bcgov/bc-laws-api/blob/master/CONTRIBUTING.md).
 
 ## License
 Code, data and content in this repository are licensed under different licenses.
