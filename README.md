@@ -7,7 +7,7 @@
 
 # bc-laws-api
 
-##Help improve this open API that provides British Columbian digital access to all B.C. provincial legislation.
+## Help improve this open API that provides British Columbian digital access to all B.C. provincial legislation.
 
 Are you a civic minded developer looking to contribute to a project that makes it easier for citizens to access the law?
 
